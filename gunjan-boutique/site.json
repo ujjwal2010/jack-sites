@@ -1,0 +1,77 @@
+{
+  "name": "GUNJAN BOUTIQUE",
+  "category": "Boutique & Women's Fashion",
+  "theme": "royal",
+  "primaryColor": "#D4AF37",
+  "emoji": "👗",
+  "lang": "en",
+  "tagline": "Exclusive Ethnic & Western Fashion",
+  "heroText": "Discover our handpicked collection of elegant ethnic and western wear crafted for every occasion.",
+  "about": "Welcome to GUNJAN BOUTIQUE, your ultimate destination for exquisite women's fashion in Mumbai. With a stellar 4.8-star rating from over 300 happy customers, we bring you trendsetting designs that blend traditional grace with modern style. Every piece in our collection is chosen with love to make you stand out.",
+  "itemsTitle": "Latest Collection",
+  "items": [
+    {
+      "name": "Designer Anarkali Suit",
+      "description": "Elegant heavily embroidered ethnic wear for festive occasions",
+      "price": ""
+    },
+    {
+      "name": "Handcrafted Lehenga Choli",
+      "description": "Exquisite bridal and party wear lehengas with intricate details",
+      "price": ""
+    },
+    {
+      "name": "Chic Indo-Western Gown",
+      "description": "Modern silhouette with traditional craftsmanship",
+      "price": ""
+    },
+    {
+      "name": "Designer Kurti Set",
+      "description": "Comfortable yet stylish daily and festive wear kurtis",
+      "price": ""
+    },
+    {
+      "name": "Fusion Party Dress",
+      "description": "Trendy western wear dresses designed to impress",
+      "price": ""
+    },
+    {
+      "name": "Festive Silk Saree",
+      "description": "Graceful traditional sarees in rich pastel and gold tones",
+      "price": ""
+    }
+  ],
+  "features": [
+    {
+      "icon": "✨",
+      "title": "Premium Quality",
+      "text": "Handpicked fabrics and superior craftsmanship"
+    },
+    {
+      "icon": "💎",
+      "title": "Exclusive Designs",
+      "text": "Unique ethnic and western collections"
+    },
+    {
+      "icon": "⭐",
+      "title": "Trusted by Many",
+      "text": "Loved by 300+ customers with 4.8 rating"
+    }
+  ],
+  "hours": "Mon - Sat: 10:30 AM - 8:30 PM",
+  "ctaTitle": "Shop Your Favorite Look",
+  "ctaText": "Connect with us on WhatsApp to check availability and place your order.",
+  "phone": "+91 70212 26757",
+  "whatsapp": "+91 70212 26757",
+  "address": "Mumbai, India",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=GUNJAN%20BOUTIQUE&query_place_id=ChIJW4POWQ635zsRBjYUVV_zBGI",
+  "rating": 4.8,
+  "reviews": 308,
+  "email": "",
+  "instagram": "",
+  "heroImage": "",
+  "demo": true,
+  "slug": "gunjan-boutique",
+  "created": "2026-10-22T06:17:15.542Z",
+  "updated": "2026-10-22T06:17:15.542Z"
+}
