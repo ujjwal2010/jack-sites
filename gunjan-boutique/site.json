@@ -1,14 +1,14 @@
 {
   "name": "GUNJAN BOUTIQUE",
   "category": "Boutique & Women's Fashion",
-  "theme": "royal",
+  "theme": "dark",
   "primaryColor": "#D4AF37",
   "emoji": "👗",
   "lang": "en",
-  "tagline": "Exclusive Ethnic & Western Fashion",
-  "heroText": "Discover our handpicked collection of elegant ethnic and western wear crafted for every occasion.",
-  "about": "Welcome to GUNJAN BOUTIQUE, your ultimate destination for exquisite women's fashion in Mumbai. With a stellar 4.8-star rating from over 300 happy customers, we bring you trendsetting designs that blend traditional grace with modern style. Every piece in our collection is chosen with love to make you stand out.",
-  "itemsTitle": "Latest Collection",
+  "tagline": "Exclusive High-End Luxury Ethnic & Western Fashion",
+  "heroText": "Discover our handpicked collection of opulent luxury wear crafted for elite occasions.",
+  "about": "Welcome to GUNJAN BOUTIQUE, your ultimate destination for high-end luxury women's fashion in Mumbai. With a stellar 4.8-star rating from over 300 happy customers, we bring you trendsetting designer pieces that blend traditional grace with modern style. Every piece in our collection is chosen with love to make you stand out.",
+  "itemsTitle": "Latest Luxury Collection",
   "items": [
     {
       "name": "Designer Anarkali Suit",
@@ -16,8 +16,8 @@
       "price": ""
     },
     {
-      "name": "Handcrafted Lehenga Choli",
-      "description": "Exquisite bridal and party wear lehengas with intricate details",
+      "name": "Handcrafted Bridal Lehenga",
+      "description": "Exquisite bridal and party wear lehengas with intricate gold details",
       "price": ""
     },
     {
@@ -45,12 +45,12 @@
     {
       "icon": "✨",
       "title": "Premium Quality",
-      "text": "Handpicked fabrics and superior craftsmanship"
+      "text": "Handpicked luxury fabrics and superior craftsmanship"
     },
     {
       "icon": "💎",
       "title": "Exclusive Designs",
-      "text": "Unique ethnic and western collections"
+      "text": "Unique high-end ethnic and western collections"
     },
     {
       "icon": "⭐",
@@ -73,5 +73,5 @@
   "demo": true,
   "slug": "gunjan-boutique",
   "created": "2026-10-22T06:17:15.542Z",
-  "updated": "2026-10-22T06:17:15.542Z"
+  "updated": "2026-10-25T13:30:03.922Z"
 }
